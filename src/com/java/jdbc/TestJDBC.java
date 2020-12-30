@@ -56,4 +56,9 @@ public class TestJDBC {
         }
         return false;
     }
+
+    public static boolean delStudent(int stuId){
+
+        return false;
+    }
 }
